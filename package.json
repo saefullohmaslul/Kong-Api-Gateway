@@ -1,0 +1,15 @@
+{
+  "name": "kong-node",
+  "version": "1.0.0",
+  "description": "Kong API Gateway With Docker",
+  "main": "index.js",
+  "author": "Saefulloh Maslul",
+  "license": "ISC",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.16.1",
+    "body-parser": "1.18.3"
+  }
+}
